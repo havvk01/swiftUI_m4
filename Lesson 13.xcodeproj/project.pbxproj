@@ -17,6 +17,7 @@
 		0B2C36A0274CE45300EE008C /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C369F274CE45300EE008C /* DataServices.swift */; };
 		0B66F34F274E277B00D4BF30 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B66F34E274E277B00D4BF30 /* RecipeDetailView.swift */; };
 		0BA5B1F727620FDA007E4253 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */; };
+		0BC0E29E2769FE24007758A4 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC0E29D2769FE24007758A4 /* RecipeFeaturedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		0B2C369F274CE45300EE008C /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
 		0B66F34E274E277B00D4BF30 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
+		0BC0E29D2769FE24007758A4 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,9 +90,10 @@
 		0B2C3693274CD59700EE008C /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */,
+				0BC0E29D2769FE24007758A4 /* RecipeFeaturedView.swift */,
 				0B2C3686274CD51F00EE008C /* RecipeListView.swift */,
 				0B66F34E274E277B00D4BF30 /* RecipeDetailView.swift */,
-				0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				0B2C369E274CE1E500EE008C /* RecipeModel.swift in Sources */,
 				0B2C3687274CD51F00EE008C /* RecipeListView.swift in Sources */,
 				0B2C3685274CD51F00EE008C /* Lesson_13App.swift in Sources */,
+				0BC0E29E2769FE24007758A4 /* RecipeFeaturedView.swift in Sources */,
 				0BA5B1F727620FDA007E4253 /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
