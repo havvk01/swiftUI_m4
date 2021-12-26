@@ -16,6 +16,7 @@
 		0B2C369E274CE1E500EE008C /* RecipeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C369D274CE1E500EE008C /* RecipeModel.swift */; };
 		0B2C36A0274CE45300EE008C /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2C369F274CE45300EE008C /* DataServices.swift */; };
 		0B66F34F274E277B00D4BF30 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B66F34E274E277B00D4BF30 /* RecipeDetailView.swift */; };
+		0B8CB11C277744D300076397 /* Rational.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B8CB11B277744D300076397 /* Rational.swift */; };
 		0BA5B1F727620FDA007E4253 /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */; };
 		0BC0E29E2769FE24007758A4 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC0E29D2769FE24007758A4 /* RecipeFeaturedView.swift */; };
 /* End PBXBuildFile section */
@@ -32,6 +33,7 @@
 		0B2C369D274CE1E500EE008C /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		0B2C369F274CE45300EE008C /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
 		0B66F34E274E277B00D4BF30 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		0B8CB11B277744D300076397 /* Rational.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rational.swift; sourceTree = "<group>"; };
 		0BA5B1F627620FDA007E4253 /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		0BC0E29D2769FE24007758A4 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -72,6 +74,7 @@
 				0B2C3694274CD59F00EE008C /* Models */,
 				0B2C3698274CD5CC00EE008C /* Services */,
 				0B2C3697274CD5C600EE008C /* Data */,
+				0B8CB11B277744D300076397 /* Rational.swift */,
 				0B2C3688274CD52100EE008C /* Assets.xcassets */,
 				0B2C368D274CD52100EE008C /* Info.plist */,
 				0B2C368A274CD52100EE008C /* Preview Content */,
@@ -202,6 +205,7 @@
 			files = (
 				0B2C36A0274CE45300EE008C /* DataServices.swift in Sources */,
 				0B66F34F274E277B00D4BF30 /* RecipeDetailView.swift in Sources */,
+				0B8CB11C277744D300076397 /* Rational.swift in Sources */,
 				0B2C369C274CD82800EE008C /* Recipe.swift in Sources */,
 				0B2C369E274CE1E500EE008C /* RecipeModel.swift in Sources */,
 				0B2C3687274CD51F00EE008C /* RecipeListView.swift in Sources */,
